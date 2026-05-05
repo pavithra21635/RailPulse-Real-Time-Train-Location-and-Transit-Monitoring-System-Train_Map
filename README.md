@@ -1,7 +1,8 @@
-# 🚆 Real-Time Train Location Tracking System
+# 🚆 RailPulse -  Real-Time Train Location & Transit Monitoring System
 
-This project is a **real-time train location tracking system** built with **React (frontend)** and a **Node.js + MongoDB backend**.  
-It allows **secure login** and displays **train locations on an interactive map** using **Leaflet**.
+The frontend component of the **RailPulse ecosystem**, engineered with **React (frontend)** to visualize real-time geospatial data and a **Node.js + MongoDB backend**.  
+It allows **secure login** and displays **train locations on an interactive map** using **Leaflet**.. 
+It features seamless integration with REST APIs, efficient state management for live train coordinates, and a modular component architecture. Designed for high visibility and real-time monitoring of railway networks.
 
 ---
 
